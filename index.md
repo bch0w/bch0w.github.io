@@ -13,3 +13,11 @@ My research interests include seismic tomography, computational seismology, rota
 ####  Contact
 
 I can be reached via my university email, bryant.chow@vuw.ac.nz
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
