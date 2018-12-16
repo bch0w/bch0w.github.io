@@ -1,36 +1,11 @@
 ## Bryant Chow
-A landing page for Bryant Chow.
+The landing page for Bryant Chow (bchow).
+
+### About Me (abridged)
+
+I am currently a doctoral candidate at Victoria University of Wellington in Wellington, New Zealand. Since January 2017, I have been pursuing a PhD in Geophysics, with an emphasis in Seismology. I jointly received a Masters of Science in Theoretical Geophysics from the Ludwig-Maximilians-Universität München and the Technische Universität München, Germany. Before that I received a Bachelor of Science in Physics with a minor in German Studies for the University of California, Santa Barbara. My research interests include seismic tomography, computational seismology and seismic instrumentation. In my spare time I enjoy rock climbing, riding motorbikes and generally being outdoors. 
 
 
+####  Contact
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bch0w/bch0w.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I can be reached via my university email, bryant.chow@vuw.ac.nz
