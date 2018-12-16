@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Inifinite Mesh
 
 You can use the [editor on GitHub](https://github.com/bch0w/bch0w.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
