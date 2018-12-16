@@ -5,9 +5,9 @@ The landing page for me, myself and pie (bchow).
 
 I am currently a doctoral candidate at the Victoria University of Wellington (VUW) in Wellington, New Zealand, as well as GNS Science.
 
-Since January 2017, I have been pursuing a PhD in Geophysics, with an emphasis in Seismology. I jointly received a Masters of Science in Theoretical Geophysics from the Ludwig-Maximilians-Universität München and the Technische Universität München, Germany. Before that I received a Bachelor of Science in Physics with a minor in German Studies for the University of California, Santa Barbara. 
+Since January 2017, I have been pursuing a PhD in Geophysics, with an emphasis in Seismology. In 2017 I jointly received a Masters of Science in Theoretical Geophysics from the Ludwig-Maximilians-Universität München (LMU) and the Technische Universität München (TUM), in Munich, Germany. Prior to that in 2015, I received a Bachelor of Science in Physics with a minor in German Studies from the University of California, Santa Barbara (UCSB). 
 
-My research interests include seismic tomography, computational seismology and seismic instrumentation. In my spare time I enjoy rock climbing, riding motorbikes and generally being outdoors. 
+My research interests include seismic tomography, computational seismology, rotational seismology and seismic instrumentation. In my spare time I enjoy rock climbing, riding motorbikes and being outdoors. 
 
 
 ####  Contact
