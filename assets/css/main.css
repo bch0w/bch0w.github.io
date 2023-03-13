@@ -39,6 +39,11 @@ body {
 	line-height: 1;
 }
 
+
+span {
+	font-size: 0.55em;
+}
+
 ol, ul {
 	list-style: none;
 }
